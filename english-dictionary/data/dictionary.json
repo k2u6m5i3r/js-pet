@@ -1,32 +1,14 @@
 {
-  "id": {
-    "word": "a",
-    "transc": "[ə]",
-    "translate": "неопределенный артикль, один из"
-  },
-  "id": {
-    "word": "abandon",
-    "transc": "[əˈbændən]",
-    "translate": "покидать, оставлять"
-  },
-  "id": {
-    "word": "ability",
-    "transc": "[əˈbɪləti]",
-    "translate": "способность, умение"
-  },
-  "id": {
-    "word": "able",
-    "transc": "[ˈeɪbl]",
-    "translate": "способный, обладающий способностью"
-  },
-  "id": {
-    "word": "about",
-    "transc": "[əˈbaʊt]",
-    "translate": "насчет, на тему, повсюду"
-  },
-  "id": {
-    "word": "above",
-    "transc": "[əˈbʌv]",
-    "translate": "вверху, наверх, над"
-  }
+"final":{"transcription":"[ˈfaɪnl]","translate":"финальный, последний"},
+"finally":{"transcription":"[ˈfaɪnəli]","translate":"в конце концов, наконец"},
+"finance":{"transcription":"[ˈfaɪnæns, fəˈnæns]","translate":"финансы, финансирование, финансировать"},
+"financial":{"transcription":"[faɪˈnænʃl, fə-]","translate":"финансовый"},
+"find":{"transcription":"[faɪnd]","translate":"находить, встречать"},
+"fine":{"transcription":"[faɪn]","translate":"прекрасно, хорошо, прекрасный"},
+"finely":{"transcription":"[ˈfaɪnli]","translate":"тонко"},
+"finger":{"transcription":"[ˈfɪŋɡər]","translate":"палец"},
+"finish":{"transcription":"[ˈfɪnɪʃ]","translate":"заканчивать, завершать, конец"},
+"fire":{"transcription":"[ˈfaɪər]","translate":"огонь, пожар, стрелять"},
+"firework":{"transcription":"[ˈfaɪərwɜːrk]","translate":"фейерверк"},
+"firm":{"transcription":"[fɜːrm]","translate":"твердый, крепкий, фирма"}
 }
