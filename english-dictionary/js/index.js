@@ -31,6 +31,14 @@ function setWord(word, transcription, translate) {
   if (translateElem) {
     translateElem.textContent = translate
   }
+
+  const dubbingClickElem = document.getElementById('content__dubbing');
+  dubbingClickElem.textContent = ``;
+  dubbingClickElem.insertAdjacentHTML('afterbegin', `<img src="./image/volume.png" alt="volume">`)
+  dubbingClickElem.addEventListener('click', ()=>{
+    console.log(dubbingClickElem);
+    window.location.href = `https://translate.google.com/?hl=ru&sl=auto&tl=ru&text=${word}&op=translate`
+  })
 }
 
 async function loadJSON() {

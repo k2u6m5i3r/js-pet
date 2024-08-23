@@ -51,3 +51,7 @@ html {
 .control__rigth {
   right: 0;
 }
+#content__dubbing img{
+  width: 45px;
+  height: 45px;
+}
